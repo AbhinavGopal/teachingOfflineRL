@@ -1,5 +1,7 @@
-# bags
+# MuJoCo Offline RL Teaching Project
 
+
+## TAKEN FROM BAGS, Daniel's project earlier this summer. Much of the content relates to that project
 AH! I finally figured out how to test and build this website. Summary:
 
 (1) Install [bundle](https://bundler.io/). This means:
